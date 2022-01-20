@@ -1,0 +1,14 @@
+.info-bg {
+    background-color: #fceae8;
+}
+
+.categories img {
+    width: 100px;
+}
+
+.btn {
+    border-radius: 8px;
+    padding: 9px 25px;
+    color: white;
+    background-color: #ff3b89;
+}
